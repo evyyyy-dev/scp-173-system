@@ -39,9 +39,7 @@ ReplicatedStorage
      └─ WatchedEvent
 
 ServerScriptServie
- └─ Main.Server.lua              │ Main server script that initializes anything server-related.
-
-ServerStorage
+ ├─ Main.Server.lua              │ Main server script that initializes anything server-related.
  └─ SCP173                       │ Manages all server-sided stuff, like teleporting and killing.
 
  StarterGui
