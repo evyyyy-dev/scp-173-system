@@ -26,7 +26,7 @@
 ```
 Workspace
  └─ SCP-173
-     └─ Peanmut                   │ SCP-173's mesh.
+     └─ Peanut                   │ SCP-173's mesh.
          ├─ KillSound
          └─ TeleportSound
 
