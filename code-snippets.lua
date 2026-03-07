@@ -1,7 +1,7 @@
 -- ======================= --
 -- SCP-173 System (Snippet)
 -- This snippet demonstrates getting the nearest players, the movement and the main loop.
--- ============================================================================================== --
+-- =================================================================================== --
 
 -- Gets the player the nearest of SCP-173, ignoring those further away than MAX_DISTANCE.
 local function getNearestPlayer()
