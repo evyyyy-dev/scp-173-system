@@ -1,4 +1,4 @@
--- ======================= --
+-- ===================== --
 -- SCP-173 System (Snippet)
 -- This snippet demonstrates getting the nearest players, the movement and the main loop.
 -- =================================================================================== --
