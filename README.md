@@ -17,7 +17,7 @@
 ---
 
 ## Showcase
-# TBD
+[![Watch showcase](https://img.youtube.com/vi/Qev-H1CNSeg/0.jpg)](https://www.youtube.com/watch?v=Qev-H1CNSeg)
 
 ---
 
